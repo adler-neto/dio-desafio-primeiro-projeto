@@ -2,4 +2,4 @@
 Desafio Dio Primeiro Projeto
 
 ### Praticando a Git e GitHub
-. utilizando os comandos basicos 
+- utilizando os comandos basicos 
