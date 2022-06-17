@@ -5,7 +5,7 @@ Desafio Dio Primeiro Projeto
 
 #### Utilizando os Comandos Basicos
 - Comando (- ) gera uma lista não ordenada
-- Comando # é equivalente ao <h1>Texto</h1>, <h2Texto</h2> e etc.. alterando o tamanho do texto. 
+- Comando # é equivalente ao < h1>Texto< /h1>, < h2Texto< /h2> e etc.. alterando o tamanho do texto. 
 
 #### Comandos Utilizado no Terminal
 - git config --list -> retorna lista de todas configurações
