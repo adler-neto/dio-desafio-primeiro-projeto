@@ -3,9 +3,9 @@ Desafio Dio Primeiro Projeto
 
 ### Praticando Git e GitHub
 
-#### Utilizando os Comandos Basicos
-- Comando (- ) gera uma lista não ordenada
+#### Utilizando os Comandos Basicos para arquivo .md
 - Comando # é equivalente ao < h1>Texto< /h1>, < h2Texto< /h2> e etc... do HTML, alterando o tamanho do texto. 
+- Comando (- ) gera uma lista não ordenada
 
 #### Comandos Utilizado no Terminal
 - git config --list -> retorna lista de todas configurações
