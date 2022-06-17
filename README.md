@@ -15,5 +15,6 @@ Desafio Dio Primeiro Projeto
 - git config --global user.name "nome usuario" -> adicina um nome de usuario (utilizado apenas para a configuração inicial do Git)
 - git clone  "end. repositorio https, ssh"-> Clona um repositorio
 - git status -> verifica o status do repositorio a fim de verificar se existe pendencias
-- git add . | git add* | git add -A -> adiciona todos os arquivos para enviar para o GitHub, porém ainda fica apenas na maquina loca
-- git commit -m "texto referente a comentario" -> adiciona uma 
+- git add . | git add * | git add -A -> adiciona todos os arquivos para enviar para o GitHub, porém ainda fica apenas na maquina loca
+- git commit -m "texto referente a comentario" -> você consegue guardar o estado do seu repositório naquele momento, mais ainda não subiu no GitHub
+- git push origin main ->envia o repositoro para GitHub
